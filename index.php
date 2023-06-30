@@ -55,7 +55,7 @@
         <div class="contenido-seccion">
             <h2>Sobre Eu</h2>
             <p><span>Meu nome é Franklin Kennedy</span>, tenho
-                <?php include_once 'idade.php';echo $idade;?> anos e sou residente na encantadora cidade de Montes
+                22 anos e sou residente na encantadora cidade de Montes
                 Claros, localizada em Minas Gerais. Atualmente, estou cursando TecNet (Programação Web) no IFNMG e estou
                 no
                 2º período. Prevejo concluir meu curso e obter minha formação em janeiro de 2023. Tenho conhecimento e
